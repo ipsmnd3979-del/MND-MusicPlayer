@@ -1,4 +1,4 @@
-# noir  — Music Player App
+# MND  — Music Player App
 
 A dark, glassmorphism-styled multi-page music player built with plain HTML5, CSS3 and ES6. No build step, no login, runs directly from XAMPP or any static web server.
 
