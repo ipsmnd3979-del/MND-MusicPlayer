@@ -1,0 +1,170 @@
+[
+  {
+    "id": "nitin-mukesh-collection",
+    "title": "Nitin Mukesh - Golden Collection",
+    "artistId": "nitin-mukesh",
+    "artist": "Nitin Mukesh",
+    "year": 2001,
+    "cover": "./assets/covers/mnd.png",
+    "songIds": [
+      85,
+      86
+    ]
+  },
+  {
+    "id": "alisha-chinai-collection",
+    "title": "Alisha Chinai - Golden Collection",
+    "artistId": "alisha-chinai",
+    "artist": "Alisha Chinai",
+    "year": 2004,
+    "cover": "./assets/covers/mnd Albums song5.png",
+    "songIds": [
+      87,
+      88
+    ]
+  },
+  {
+    "id": "kunal-ganjawala-collection",
+    "title": "Kunal Ganjawala - Golden Collection",
+    "artistId": "kunal-ganjawala",
+    "artist": "Kunal Ganjawala",
+    "year": 2007,
+    "cover": "./assets/covers/mnd Albums song6.jpg",
+    "songIds": [
+      89,
+      90
+    ]
+  },
+  {
+    "id": "rekha-bhardwaj-collection",
+    "title": "Rekha Bhardwaj - Golden Collection",
+    "artistId": "rekha-bhardwaj",
+    "artist": "Rekha Bhardwaj",
+    "year": 2010,
+    "cover": "./assets/covers/mnd Albums song7.png",
+    "songIds": [
+      91,
+      92
+    ]
+  },
+  {
+    "id": "abhijeet-collection",
+    "title": "Abhijeet - Golden Collection",
+    "artistId": "abhijeet",
+    "artist": "Abhijeet",
+    "year": 2013,
+    "cover": "./assets/covers/mnd Albums song4.png",
+    "songIds": [
+      93,
+      94
+    ]
+  },
+  {
+    "id": "mohammed-aziz-collection",
+    "title": "Mohammed Aziz - Golden Collection",
+    "artistId": "mohammed-aziz",
+    "artist": "Mohammed Aziz",
+    "year": 2016,
+    "cover": "./assets/covers/mnd Albums song3.png",
+    "songIds": [
+      95,
+      96
+    ]
+  },
+  {
+    "id": "diljit-dosanjh-collection",
+    "title": "Diljit Dosanjh - Golden Collection",
+    "artistId": "diljit-dosanjh",
+    "artist": "Diljit Dosanjh",
+    "year": 2019,
+    "cover": "./assets/covers/mnd Albums song2.png",
+    "songIds": [
+      97,
+      98
+    ]
+  },
+  {
+    "id": "falguni-pathak-collection",
+    "title": "Falguni Pathak - Golden Collection",
+    "artistId": "falguni-pathak",
+    "artist": "Falguni Pathak",
+    "year": 2022,
+    "cover": "./assets/covers/mnd Albums song1.png",
+    "songIds": [
+      99,
+      100
+    ]
+  },
+  {
+    "id": "gurdas-maan-collection",
+    "title": "Gurdas Maan - Golden Collection",
+    "artistId": "gurdas-maan",
+    "artist": "Gurdas Maan",
+    "year": 1958,
+    "cover": "./assets/covers/mnd Albums song8.jpg",
+    "songIds": [
+      101,
+      102
+    ]
+  },
+  {
+    "id": "vinod-rathod-collection",
+    "title": "Vinod Rathod - Golden Collection",
+    "artistId": "vinod-rathod",
+    "artist": "Vinod Rathod",
+    "year": 1962,
+    "cover": "./assets/covers/mnd Albums song9.jpg",
+    "songIds": [
+      103,
+      104
+    ]
+  },
+  {
+    "id": "bhupen-hazarika-collection",
+    "title": "Bhupen Hazarika - Golden Collection",
+    "artistId": "bhupen-hazarika",
+    "artist": "Bhupen Hazarika",
+    "year": 1965,
+    "cover": "./assets/covers/mnd Albums song10.png",
+    "songIds": [
+      105,
+      106
+    ]
+  },
+  {
+    "id": "amit-kumar-collection",
+    "title": "Amit Kumar - Golden Collection",
+    "artistId": "amit-kumar",
+    "artist": "Amit Kumar",
+    "year": 1968,
+    "cover": "./assets/covers/mnd Albums song11.jpg",
+    "songIds": [
+      107,
+      108
+    ]
+  },
+  {
+    "id": "adnan-sami-collection",
+    "title": "Adnan Sami - Golden Collection",
+    "artistId": "adnan-sami",
+    "artist": "Adnan Sami",
+    "year": 1971,
+    "cover": "./assets/covers/mnd Albums song12.jpg",
+    "songIds": [
+      109,
+      110
+    ]
+  },
+  {
+    "id": "lucky-ali-collection",
+    "title": "Lucky Ali - Golden Collection",
+    "artistId": "lucky-ali",
+    "artist": "Lucky Ali",
+    "year": 1974,
+    "cover": "./assets/covers/mnd Albums song13.png",
+    "songIds": [
+      111,
+      112
+    ]
+  }
+]

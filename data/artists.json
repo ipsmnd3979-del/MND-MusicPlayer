@@ -1,0 +1,228 @@
+[
+    {
+    "id": "sonu-nigam",
+    "name": "Sonu Nigam",
+    "bio": "Legendary Indian playback singer.",
+    "image": "assets/covers/Sonu-Nigam.jpg",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "alka-yagnik",
+    "name": "Alka Yagnik",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Palak Muchhal.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  
+  {
+    "id": "shaan",
+    "name": "Shaan",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/KK.jpg",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "krishnakumar-kunnath",
+    "name": "Krishnakumar Kunnath",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Rabbi Shergill.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "krishnakumar-kunnath",
+    "name": "Krishnakumar Kunnath",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Kailash Kher.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "krishnakumar-kunnath",
+    "name": "Krishnakumar Kunnath",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Chinmayi Tripathi.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "arijit-singh",
+    "name": "Arijit Singh",
+    "bio": "Legendary Indian playback singer.",
+    "image": "assets/covers/arijit singh.jpg",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "arijit-singh",
+    "name": "Arijit Singh",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Alka Yagnik.jpg",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "arijit-singh",
+    "name": "Arijit Singh",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Diljit Dosanjh.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "ar-rahman",
+    "name": "A.R. Rahman",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/A.R. Rahman.jpg",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "Sukhwinder-Singh",
+    "name": "Sukhwinder Singh",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Sukhwinder Singh.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "Nahid-Afrin",
+    "name": "Nahid Afrin",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Nahid Afrin.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+  {
+    "id": "Adnan-Sami",
+    "name": "Adnan Sami",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Adnan Sami.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Rahul-Vaidya",
+    "name": "Rahul Vaidya",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Rahul Vaidya.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Shefali-Alvares",
+    "name": "Shefali Alvares",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Shefali Alvares.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Ammy-Virk",
+    "name": "Ammy Virk",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Ammy Virk.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Nupur-Pant",
+    "name": "Nupur Pant",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Nupur Pant.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Lisa-Mishra",
+    "name": "Lisa Mishra",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Lisa Mishra.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Naezy",
+    "name": "Naezy",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Naezy.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Vishal-Mishra",
+    "name": "Vishal Mishra",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Vishal Mishra.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Jubin-Nautiyal",
+    "name": "Jubin Nautiyal",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Jubin Nautiyal.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Armaan-Malik",
+    "name": "Armaan Malik",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Armaan Malik.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Antara-Mitra",
+    "name": "Antara Mitra",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Antara Mitra.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Sunidhi-Chauhan",
+    "name": "Sunidhi Chauhan",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Sunidhi Chauhan.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Sonu-Nigam",
+    "name": "Sonu Nigam",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Sonu Nigam.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Kumar-Sanu",
+    "name": "Kumar Sanu",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Kumar Sanu.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Pritam-Chakraborty",
+    "name": "Pritam Chakraborty",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Pritam Chakraborty.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  },
+   {
+    "id": "Darshan-Raval",
+    "name": "Darshan Raval",
+    "bio": "Legendary Indian playback singer.",
+    "image": "./assets/covers/Darshan Raval.webp",
+    "albums": [],
+    "genres": ["Playback Singing"]
+  }
+
+]
