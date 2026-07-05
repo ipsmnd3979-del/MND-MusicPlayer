@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "title": "Thumkeshwari",
+    "artist": "MND MusicPlayer",
+    "artistId": "Divya-Kumar",
+    "albumId": "thumkeshwari-collection",
+    "album": "Thumkeshwari - Golden Collection",
+    "duration": 217,
+    "cover": "./assets/covers/mnd.png",
+    "src": "./assets/songs/thumkeshwari.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Aaj Ki Raat (Vol 1)",
+    "artist": "MND MusicPlayer",
+    "artistId": "Divya-Kumar",
+    "albumId": "Aaj-collection",
+    "album": "Aajkiraat - Golden Collection",
+    "duration": 254,
+    "cover": "./assets/covers/mnd.png",
+    "src": "./assets/songs/Aaj Ki Raat.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Mujhse Shaadi Karogi(Vol 1)",
+    "artist": "Sonu Nigam",
+    "artistId": "sonu-nigam",
+    "albumId": "sonu-nigam-collection",
+    "album": "Sonu Nigam - Golden Collection",
+    "duration": 291,
+    "cover": "assets/covers/Sonu-Nigam.jpg",
+    "src": "./assets/songs/Mujhse Shaadi Karogi.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Kuch Tum Kaho Kuch Hum Kahein(Vol 2)",
+    "artist": "Sonu Nigam",
+    "artistId": "sonu-nigam",
+    "albumId": "sonu-nigam-collection",
+    "album": "Sonu Nigam - Golden Collection",
+    "duration": 328,
+    "cover": "assets/covers/Kuch.jpg",
+    "src": "./assets/songs/Kuch Tum Kaho Kuch Hum Kahein.mp3"
+  },
+  
+  {
+    "id": 5,
+    "title": "Aayi Nai",
+    "artist": "Pawan Singh, Simran Choudhary",
+    "artistId": "Pawan-Simran",
+    "albumId": "Aayi-Nai-Stree-2",
+    "album": "Stree 2",
+    "duration": 441,
+    "cover": "./assets/covers/arijit singh.jpg",
+    "src": "./assets/songs/Aayi Nai Stree 2.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Do Ghoont",
+    "artist": "Shruti Rane",
+    "artistId": "Shruti Rane",
+    "albumId": "Do-Ghoont-2021",
+    "album": "Do Ghoont - Golden Collection",
+    "duration": 442,
+    "cover": "./assets/covers/do-ghoont-Shruti Rane.jpg",
+    "src": "./assets/songs/Do Ghoont Shruti Rane.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Kashmir Main Tu Kanyakumari",
+    "artist": "Vishal Shekhar",
+    "artistId": "Vishal-Shekhar",
+    "albumId": "Kashmir-Main-Tu-Kanyakumari",
+    "album": "Kashmir Main, Tu Kanyakumari",
+    "duration": 443,
+    "cover": "./assets/covers/Kashmir-Main.jpg",
+    "src": "./assets/songs/Kashmir Main, Tu Kanyakumari.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Pehle Bhi Main",
+    "artist": "Vishal Mishra",
+    "artistId": "Vishal-Mishra",
+    "albumId": "animal",
+    "album": "Animal",
+    "duration": 444,
+    "cover": "./assets/covers/ANIMAL.jpg",
+    "src": "./assets/songs/Pehle Bhi Main.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Kala Chashma",
+    "artist": "Inderbir Sidhu",
+    "artistId": "Inderbir-Sidhu",
+    "albumId": "Kala-Chashma",
+    "album": "Kala Chashma",
+    "duration": 445,
+    "cover": "./assets/covers/Inderbir Sidhu.jpg",
+    "src": "./assets/songs/Kala Chashma.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Baarish Mein Tum",
+    "artist": "Neha Kakar",
+    "artistId": "Neha-Kakar",
+    "albumId": "Baarish-Mein-Tum",
+    "album": "Baarish Mein Tum",
+    "duration": 446,
+    "cover": "./assets/covers/Baarish.jpg",
+    "src": "./assets/songs/Baarish Mein Tum.mp3"
+  }
+]
