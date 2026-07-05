@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+  <title>Now Playing · noir </title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/player.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+<div class="app-container" role="main">
+  <div class="app-header">
+    <span class="back-btn" onclick="history.back()"><i class="fas fa-chevron-down"></i></span>
+    <h1 style="font-size:0.95rem;">Now Playing</h1>
+    <div class="header-actions"><i class="fas fa-ellipsis-h"></i></div>
+  </div>
+
+  <div class="content-scroll">
+    <div class="np-art-section">
+      <div class="np-art-container" id="npArtContainer">
+        <img id="npAlbumArt" src="" alt="album cover">
+      </div>
+      <div class="np-meta">
+        <div style="min-width:0;">
+          <h2 id="npTrackTitle">Nothing playing</h2>
+          <p id="npTrackArtist">—</p>
+        </div>
+        <i class="fas fa-heart np-fav" id="npFav"></i>
+      </div>
+    </div>
+
+    <div class="progress-area">
+      <span id="npCurrentTime">0:00</span>
+      <div class="progress-bar" id="npProgressBar"><div class="progress-fill" id="npProgressFill"></div></div>
+      <span id="npTotalTime">0:00</span>
+    </div>
+
+    <div class="controls">
+      <button id="npShuffleBtn" aria-label="shuffle"><i class="fas fa-shuffle"></i></button>
+      <button id="npPrevBtn" aria-label="previous"><i class="fas fa-step-backward"></i></button>
+      <button id="npPlayBtn" class="play-btn" aria-label="play/pause"><i class="fas fa-play" id="npPlayIcon"></i></button>
+      <button id="npNextBtn" aria-label="next"><i class="fas fa-step-forward"></i></button>
+      <button id="npRepeatBtn" aria-label="repeat"><i class="fas fa-repeat"></i></button>
+    </div>
+
+    <div class="volume-row">
+      <i class="fas fa-volume-low"></i>
+      <input type="range" id="npVolume" min="0" max="1" step="0.01" value="0.85">
+      <i class="fas fa-volume-high"></i>
+    </div>
+
+    <div class="queue-section">
+      <div class="queue-header"><h4><i class="fas fa-list-ul" style="margin-right:8px;"></i>Up Next</h4></div>
+      <div class="track-list" id="npQueueList"></div>
+    </div>
+  </div>
+
+  <div class="bottom-nav">
+    <a href="index.html" class="nav-item" data-page="index.html"><i class="fas fa-home"></i><span>Home</span></a>
+    <a href="search.html" class="nav-item" data-page="search.html"><i class="fas fa-search"></i><span>Search</span></a>
+    <a href="library.html" class="nav-item" data-page="library.html"><i class="fa fa-music" aria-hidden="true"></i><span>Library</span></a>
+    <a href="player.html" class="nav-item" data-page="player.html"><i class="fas fa-compact-disc"></i><span>Now Playing</span></a>
+  </div>
+</div>
+
+<script src="js/storage.js"></script>
+<script src="js/player.js"></script>
+<script src="js/nowplaying.js"></script>
+</body>
+</html>
